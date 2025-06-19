@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.ui import Button, View
 import asyncio
 
-TOKEN = "MTM4NTMzNzQzODAyODk1OTk1NA.GRyyZG.Qx9kUvKjqjBcVM7eTcvVqfyLUDnE3DT_BpbChU"  # Замените на ваш токен
+TOKEN = "MTM4NTMzNzQzODAyODk1OTk1NA.GUFyuO.EMOWyQhewzBUppnHzl7LDYaB8Ib3Kud_ty7RpU"  # Замените на ваш токен
 MODERATOR_ROLE_NAME = "Moderator"  # Название роли модератора
 
 intents = discord.Intents.default()
